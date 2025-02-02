@@ -1,4 +1,4 @@
-## Hi👋 I'm Naga Pravallika Peddi
+## Hi👋, I'm Naga Pravallika Peddi
 
 An enthusiastic developer
 
