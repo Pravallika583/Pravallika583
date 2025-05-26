@@ -1,6 +1,6 @@
 ## Hi👋, I'm Naga Pravallika Peddi
 
-An Enthusiastic Full Stack Developer
+An Enthusiastic Software Developer
 
 - 🔭 I’m currently working on Personal Projects and looking for Full Time Job
 - 🔭 Focusing on React and Devops Skills
