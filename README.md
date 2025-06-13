@@ -82,11 +82,5 @@ An Enthusiastic Full Stack/Software Developer
   <a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ" width="40" height="40"/></a>
 </p>
 
-### 🔥 GitHub Streak
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Pravallika583&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 
 
